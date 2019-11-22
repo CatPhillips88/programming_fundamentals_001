@@ -25,7 +25,7 @@ You can run:
     npm run eslint
 
 to see whether ESLint suspects you have made any errors. It is recommended to do this regularly, so you can fix problems as you go along.
-
+   ;
 Also, **install the ESLint extension for VSCode**, which will provide in-line error checking (by underlining any problems in red squiggly lines, like in a Word document). Click the square symbol on the left hand bar for extensions.
 
 ## 2) Run your test suite
